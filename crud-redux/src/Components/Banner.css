@@ -1,0 +1,38 @@
+.card {
+  height: 400px;
+  width: 380px;
+  margin: 10px;
+  padding: 10px;
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+.banner {
+  width: 100%;
+}
+.product-card {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card-body {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.card_jewel {
+  height: 400px;
+  width: 380px;
+  display: flex;
+  flex-direction: column;
+}
+img {
+  width: 1400px;
+}
+.card-body-mens {
+  display: flex;
+  justify-content: column;
+}
+.quantity {
+  display: flex;
+  justify-content: center;
+}

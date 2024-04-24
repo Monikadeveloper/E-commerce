@@ -1,0 +1,50 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.signup {
+  width: 400px;
+  height: 1000px;
+
+  box-shadow: darkgray;
+  margin-left: 500px;
+}
+p {
+  font-size: small;
+}
+h1 {
+  margin: 20px;
+}
+label {
+  margin-top: 20px;
+  font-weight: 600;
+}
+button {
+  margin: 10px;
+}
+.navitem {
+  background-color: #36454f;
+  height: 50px;
+  margin-bottom: 5px;
+  justify-content: center;
+  color: white;
+  margin: 20px;
+}
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+
+  padding: 10px;
+}
+.nav-items {
+  color: white;
+  font-weight: 700;
+  font-size: medium;
+}
+img {
+  width: 1560px;
+  height: 400px;
+  margin: 20px;
+  margin-top: 5px;
+}
